@@ -1,2 +1,2 @@
 language: csharp
-solution: Api.sln
+solution: .\Api\Api.sln
